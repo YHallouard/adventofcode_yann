@@ -1,7 +1,7 @@
 calandarevent
 ==============================
 
-A short description of the project.
+calandar at https://adventofcode.com/2020
 
 ## Getting Started
 

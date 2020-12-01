@@ -42,11 +42,6 @@ jobs:
       run: |
         python setup.py sdist bdist_wheel
 
-    - name: Coverage Badge
-      run: |
-        pip install coverage coverage-badge
-        coverage-badge > /home/runner/work/calandarevent/calandarevent/htmlcov/coverage.html
-
     - name: Upload dist
       uses: actions/upload-artifact@v2
       with:

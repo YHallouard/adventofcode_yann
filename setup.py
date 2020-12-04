@@ -8,7 +8,8 @@ required = ['matplotlib',
             'pandas',
             'notebook',
             'jupyter',
-            'appnope<=0.1.0'
+            'appnope<=0.1.0',
+            'tqdm'
             ]
 
 __version__ = 'init'

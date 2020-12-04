@@ -1,7 +1,7 @@
 calandarevent
 ==============================
 
-calandar at https://adventofcode.com/2020
+Calendar at https://adventofcode.com/2020
 
 ## Getting Started
 
